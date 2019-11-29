@@ -1,0 +1,15 @@
+#top-nav {
+  height: 85px; }
+  #top-nav ul a {
+    padding: 10px 10px; }
+
+#sobre h2, #sobre h5 {
+  font-weight: 100; }
+
+#servicos h1, #servicos h2, #servicos h5 {
+  font-weight: 100; }
+
+#cliente h1, #cliente h2, #cliente h5 {
+  font-weight: 100; }
+
+/*# sourceMappingURL=site.css.map */

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ABALIZADO DESENVOLVIMENTO E EXECUÇÃO DE PROJETOS</title>
+    <link>http://abalizado.srv.br/categories/</link>
+    <description>Recent content in Categories on ABALIZADO DESENVOLVIMENTO E EXECUÇÃO DE PROJETOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    
+	<atom:link href="http://abalizado.srv.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso</title>
+      <link>http://abalizado.srv.br/categories/curso/</link>
+      <pubDate>Fri, 01 Jun 2018 18:40:03 -0300</pubDate>
+      
+      <guid>http://abalizado.srv.br/categories/curso/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
