@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ABALIZADO DESENVOLVIMENTO E EXECUÇÃO DE PROJETOS</title>
-    <link>http://abalizado.srv.br/tags/</link>
+    <link>https://abalizado.github.io/site/tags/</link>
     <description>Recent content in Tags on ABALIZADO DESENVOLVIMENTO E EXECUÇÃO DE PROJETOS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 01 Jun 2018 18:40:03 -0300</lastBuildDate>
     
-	<atom:link href="http://abalizado.srv.br/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abalizado.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Curso</title>
-      <link>http://abalizado.srv.br/tags/curso/</link>
+      <link>https://abalizado.github.io/site/tags/curso/</link>
       <pubDate>Fri, 01 Jun 2018 18:40:03 -0300</pubDate>
       
-      <guid>http://abalizado.srv.br/tags/curso/</guid>
+      <guid>https://abalizado.github.io/site/tags/curso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ead</title>
-      <link>http://abalizado.srv.br/tags/ead/</link>
+      <link>https://abalizado.github.io/site/tags/ead/</link>
       <pubDate>Fri, 01 Jun 2018 18:40:03 -0300</pubDate>
       
-      <guid>http://abalizado.srv.br/tags/ead/</guid>
+      <guid>https://abalizado.github.io/site/tags/ead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minicurso</title>
-      <link>http://abalizado.srv.br/tags/minicurso/</link>
+      <link>https://abalizado.github.io/site/tags/minicurso/</link>
       <pubDate>Fri, 01 Jun 2018 18:40:03 -0300</pubDate>
       
-      <guid>http://abalizado.srv.br/tags/minicurso/</guid>
+      <guid>https://abalizado.github.io/site/tags/minicurso/</guid>
       <description></description>
     </item>
     
